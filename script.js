@@ -1,6 +1,6 @@
 
 let input = document.createElement("input")
-input.setAttribute("placeholder","url")
+input.setAttribute("placeholder","Keyword")
 document.body.append(input)
 
 let button = document.createElement("button")
