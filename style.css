@@ -20,6 +20,7 @@ input{
     color:white;
     font-size:20px;
     border:none;
+    cursor:pointer;
 }
 .erase{
     margin: 10px;
@@ -30,5 +31,5 @@ input{
     color:white;
     font-size:20px;
     border:none;
-
+ cursor:pointer;
 }
